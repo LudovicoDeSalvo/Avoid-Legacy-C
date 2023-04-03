@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1433538724 source:c:\users\ludo\desktop\c++\programmi\game\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+
+1442414355 source:c:\users\ludo\desktop\c++\programmi\avoid\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<stdexcept>
+	<stdlib.h>
+	<sstream>
+	<curses.h>
+	<fstream>
+	<string>
+
+1216124006 c:\codeblocks\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1433926376 source:e:\avoid\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<stdexcept>
+	<stdlib.h>
+	<sstream>
+	<curses.h>
+	<fstream>
+
